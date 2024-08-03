@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+77WIN - 77WIN.CHARITY - NHÀ CÁI UY TÍN HÀNG ĐẦU VIỆT NAM
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`77Win <https://77win.charity/>`_ là một nhà cái nổi bật trong ngành công nghiệp cá cược trực tuyến, được biết đến với sự đa dạng và chất lượng trong dịch vụ cá cược. Với một nền tảng thân thiện với người dùng và giao diện dễ sử dụng, 77Win mang đến cho người chơi trải nghiệm cá cược tuyệt vời trên cả thiết bị di động và máy tính. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+77Win cung cấp một loạt các trò chơi và dịch vụ, bao gồm cá cược thể thao, casino trực tuyến, và các trò chơi bài đổi thưởng. 77Win cam kết đảm bảo tính công bằng và minh bạch trong tất cả các hoạt động cá cược của mình, nhằm đảm bảo rằng mọi yêu cầu của người chơi.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa Chỉ: 12 Hùng Vương, Phú Hội, Thành phố Huế, Thừa Thiên Huế, Việt Nam. 
 
-Contents
---------
+Phone: 0937983785. 
 
-.. toctree::
+Email: info@77win.charity. 
 
-   usage
-   api
+Website: https://77win.charity/
+
+#77win #nhacai77win #trangchu77win #dangky77win #link77win
